@@ -7,5 +7,6 @@
 
 - 🌱 Je suis présentement en train d'étudier pour dévenir développeur web
 - 🔭 Je suis aussi en train de travailler sur mon portfolio pour la fin de mes études
-- 📫 Contactez-moi: pedro.contreras.avendanp@gmail.com
+- 📫 Contactez-moi: pedro.contreras.avendano@gmail.com
 - ⚡ Fun fact: Time's magazine personne of the year in 2006
+
