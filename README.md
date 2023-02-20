@@ -4,7 +4,8 @@
 **pcavendano/pcavendano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Finissant du programme en Conception et programmation de sites web basé à Montréal. J'ai aussi complété un DEC en tant que Programmeur Analyste en 2020 au Collège de Maisonneuve.
+Finissant du programme en Conception et programmation de sites web basé à Montréal.J'ai aussi complété un DEC en tant que Programmeur Analyste en 2020 au Collège de Maisonneuve.
+
 La formation que je suis en train de terminer présentement est surtout concentré sur la programmation d'interfaces web avec React, Angular et un backend Laravel.
 Par contre durant mon DEC, j'ai aussi appris la OOP en Java, les algorithmes en Python ainsi que la création d'applications Windows avec C#.
 
