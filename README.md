@@ -7,7 +7,7 @@
 Finissant du programme en Conception et programmation de sites web basé à Montréal.J'ai aussi complété un DEC en tant que Programmeur Analyste en 2020 au Collège de Maisonneuve :closed_book:.
 
 Cette formation est surtout concentré sur la création et la programmation d'interfaces web avec React, Angular et un backend Laravel.
-Par contre durant mon DEC, j'ai aussi appris la OOP en Java, les algorithmes en Python ainsi que la création d'applications Windows avec C#.
+Par contre durant mon DEC, j'ai aussi appris la OOP en Java, les algorithmes en Python ainsi que la création d'applications Windows avec C# :computer:.
 
 Chez mon futur employeur, j'aimerais surtout me concentrer sur la création d'interfaces web avec des technologies comme React ou Angular ou je pourrais continuer à travailler sur mes connaissances  en UX/UI et CSS. Cependant, je me considère un généraliste capable de travailler à travers tout le stack. J'ai un intérêt particulier pour le déploiement avec Docker par exemple, la gestion de serveurs/machines et la mise en place des outils de développement.
 
