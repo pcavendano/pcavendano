@@ -4,6 +4,9 @@
 **pcavendano/pcavendano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<p>Je m'apelle Pedro, et je suis un développeur Fullstack originaire du <img src="https://cdn-icons-png.flaticon.com/512/197/581707.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<h3>Things I code with</h3>
+
 Finissant du AEC en Conception et programmation de sites web au Collège de Maisonneuve basé à Montréal. J'ai aussi un DEC en tant que Programmeur Analyste obtenu en 2020 au Collège de Maisonneuve :closed_book:.
 
 Ma présente formation est surtout concentré sur la création et la programmation d'interfaces web avec React, Angular et un backend Laravel.
