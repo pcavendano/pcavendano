@@ -16,7 +16,7 @@ Dans mon temps libre, j'essaye de rester actifs soit en faisant du vélo l'été
 N'hésitez pas à me contacter!
 
 
-- 🌱 Présentement aux études en conception et design de sites web et à la recherche d'un stage
+- 🌱 Développeur Web Full Stack ouvert aux opportunités.
 - 🔭 À la recherche de ma prochaine aventure!
 - 📫 Contactez-moi: pedro.contreras.avendano@gmail.com
 - ⚡ Fun fact: Fastest person on earth, as said by my little nephew
